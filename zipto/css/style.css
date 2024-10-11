@@ -11410,6 +11410,7 @@ button.bg-dark:focus {
 
 .text-left {
   text-align: left !important;
+  border-radius: 200px;
 }
 
 .text-right {
@@ -11418,6 +11419,7 @@ button.bg-dark:focus {
 
 .text-center {
   text-align: center !important;
+  
 }
 
 @media (min-width: 576px) {
